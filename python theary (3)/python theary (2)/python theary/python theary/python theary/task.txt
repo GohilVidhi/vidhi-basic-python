@@ -1,0 +1,199 @@
+Example 1: Print the first 10 natural numbers using for loop.
+Example 2: Python program to print all the even numbers within the given range.
+Example 3: Python program to calculate the sum of all numbers from 1 to a given number.
+Example 4: Python program to calculate the sum of all the odd numbers within the given range.
+Example 5: Python program to print a multiplication table of a given number
+Example 6: Python program to count the total number of digits in a number.
+Example 7: Python program to count the number of even and odd numbers from a series of numbers.
+Example 8: Python program to display all numbers within a range except the prime numbers.
+Example 9: Python program that accepts a string and calculates the number of digits and letters.
+
+
+=======================================================================================================
+A:
+
+Q : 1 ==>  words= ["Apple", "Banana", "Car", "Dolphin" ]
+           output : A
+                    p
+                    p
+                    l
+                    e
+                    /////
+                    B
+                    a
+                    n
+                    a
+                    n
+                    a
+                    /////
+                    C
+                    a
+                    r
+                    /////
+                    D
+                    o
+                    l
+                    p
+                    h
+                    i
+                    n
+                    /////
+             
+Q : 2 ==>  Count the total number of digits in a number
+Q : 3 ==>  Display numbers from -10 to -1 using for loop
+Q : 4 ==>  Python program to check the validity of password input by users.
+Q : 5 ==>  Python program to convert the month name to a number of days. 
+Q : 6 ==>  loop through a tuple of mixed data type and extract only integer values
+
+
+==============================================
+date=14-06-2023
+B:
+
+Q : 1 ==>  newList = [12, 35, 9, 56, 24] output: [24, 56, 9, 35, 12]
+Q : 2 ==>  Addition of first and last digit of the number ==> number = 12475 ==> output=6
+Q : 3 ==>  Python program to print positive numbers and nagitive numbers in a list
+Q : 4 ==>  Python Program to count unique values inside a list
+l1=[1,2,3,4,5,1,2,3,4,5,6,7,8,1,2,3,4,5,6]
+Q : 5 ==>  Count the vowels in a string
+
+======================================
+C:
+
+Q : 1 ==> Print the value of key ‘history’ from the below dict
+          sampleDict = {
+                "class": {
+                    "student": {
+                        "name": "Mike",
+                        "marks": {
+                            "physics": 70,
+                            "history": 80
+                        }
+                    }
+                }
+            }
+
+Q : 2 ==> Check if a value exists in a dictionary
+          sample_dict = {'a': 100, 'b': 200, 'c': 300}            
+
+
+Q : 3 ==>   Change value of a key in a nested dictionary
+            sample_dict = {
+                'emp1': {'name': 'Jhon', 'salary': 7500},
+                'emp2': {'name': 'Emma', 'salary': 8000},
+                'emp3': {'name': 'Brad', 'salary': 500}
+            }       
+
+=======================================================================
+D:
+
+Q : 1 ==> l1=["python"," ", " ","java"] 
+
+Q : 2 ==> numbers = [12, 75, 150, 180, 145, 525, 50] using for loop
+          output =  75
+                    150
+                    145
+
+Q : 3 ==> Write a program to print the cube of all numbers from 1 to a given number
+
+Q : 4 ==> numbers_x = [10, 20, 30, 40, 10]
+          numbers_y = [75, 65, 35, 75, 30]
+          output = Given list: [10,20, 30, 40, 10]
+                                result is True
+
+                                numbers_y = [75, 65, 35, 75, 30]
+                                result is False
+
+Q : 5 ==> marks={"m1":92 , "m2":56 , "m3":88 , "m4":97 , "m5":89}
+      ==> output: Sum of Values : 422 
+
+Q : 6 ==> marks={"m1":78 , "m2":89 , "m3":64 , "m4":35 , "m5":71}
+       Maximum : 89
+       Minimum : 35      
+
+Q : 7 ==> Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x)
+          output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+Q : 8 ==> 1
+          2 2
+          3 3 3
+          4 4 4 4
+          5 5 5 5 5        
+
+=======================================================================================================
+E:
+
+Q : 1 ==> Write a Python program to compute the element-wise sum of given tuples.
+          Original lists:
+          (1, 2, 3, 4)
+          (3, 5, 2, 1)
+          (2, 2, 3, 1)
+          Element-wise sum of the said tuples:
+          (6, 9, 8, 6)
+
+Q : 2 ==> Write a Python program to check if a list is empty or not.
+
+Q : 3 ==> C = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n']
+          output: [['a', 'd', 'g', 'j', 'm'], ['b', 'e', 'h', 'k', 'n'], ['c', 'f', 'i', 'l']]
+
+Q : 4 ==> Write a Python program to insert a given string at the beginning of all items in a list.
+          num=[1,2,3,4,5,6,7,8,9,10]  
+          output: [student-10] [student-9] [student-8] [student-7] [student-6] [student-5] [student-4] [student-3] [student-2] [student-1]    
+
+Q : 5 ==>  Write a Python script to concatenate the following dictionaries to create a new one.
+            Sample Dictionary :
+            dic1={1:10, 2:20}
+            dic2={3:30, 4:40}
+            dic3={5:50,6:60}
+            Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+Q : 6 ==> Write a Python program to find the list in a list of lists whose sum of elements is the highest.
+          Sample lists: [1,2,3], [4,5,6], [10,11,12], [7,8,9]
+          Expected Output: [10, 11, 12]
+
+Q : 6 ==> l1=[1,2,3,4,1,2,3,4,5,6,7]
+          output: [5,6,7]
+                  3
+
+=======================================================================
+F:
+Q : 1 ==> num = (1, 2, 3, 4, 5, 6, 7) using function
+          output:[3, 6, 9, 12, 15, 18, 21]
+
+Q : 2 ==> nums1 = [1, 2, 3]  using  function 
+          nums2 = [4, 5, 6] 
+          nums3 = [7, 8, 9] 
+
+          output:(12, 15, 18)
+
+Q : 3 ==> color = ['Red', 'Blue', 'Black', 'White', 'Pink']    
+          output : [['R', 'e', 'd'], ['B', 'l', 'u', 'e'], ['B', 'l', 'a', 'c', 'k'], ['W', 'h', 'i', 't', 'e'], ['P', 'i', 'n', 'k']]
+
+Q : 4 ==> num = [10.0, 20.0, 30.0, 40.0, 50.9, 60.8, 70.7, 80.6, 90.5, 100.4]
+          output : [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+==================================================
+G:
+Q : 1 ==> Write a Python function that accepts a string and counts the number of upper and lower case letters
+          Original String :  The quick Brow Fox                                                                         
+          No. of Upper case characters :  3                                                                             
+          No. of Lower case Characters :  13       
+
+Q : 2 ==> Write a Python program that iterates the integers from 1 to 10. For multiples of 
+          three print "Fizz" instead of the number and for multiples of five print "Buzz". 
+          For numbers that are multiples of three and five, print "FizzBuzz". 
+          output: 1
+                2
+                Fizz
+                4
+                Buzz
+                Fizz
+                7
+                8
+                Fizz
+                Buzz       
+
+
+
+
+
