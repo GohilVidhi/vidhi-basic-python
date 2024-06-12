@@ -38,10 +38,7 @@
 #     print("finally")
 
 
-
-
-
-   
+  
 
 # try:
 #     # Code that may raise an exception
